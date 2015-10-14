@@ -1,5 +1,5 @@
 # spring-xd-workshop
-Workshop-Lab für Spring XD
+Workshop-Labs für Spring XD
 
 ## 1.spring-xd-client
 Demonstriert die Verwendung des REST clients für Spring XD. Hiermit werden neue Streams für einen simplen Wordcount 
