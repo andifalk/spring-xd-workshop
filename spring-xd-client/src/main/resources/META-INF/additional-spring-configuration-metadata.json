@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.xd.admin.url",
+    "type": "java.lang.String",
+    "description": "URL for target spring xd admin instance"
+  },
+  {
+    "name": "input.directory",
+    "type": "java.lang.String",
+    "description": "Input directory for texts to compute word count"
+  }
+]}

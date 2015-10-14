@@ -1,0 +1,8 @@
+spring:
+  xd:
+    admin:
+      url: http://localhost:9393
+input:
+  directory: C:/development/input
+        
+     
